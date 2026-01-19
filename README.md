@@ -1,4 +1,4 @@
-# OCaml Lambda Calculus Formatter
+# OCaml Lambda Calculus Formatter (or Interpreter)
 
 A syntax-directed translator built in OCaml that parses ASCII Lambda Calculus expressions and converts them into canonical Unicode notation.
 
